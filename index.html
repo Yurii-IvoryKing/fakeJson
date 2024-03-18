@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+	<title>Главная</title>
+	<meta charset="UTF-8">
+	<meta name="format-detection" content="telephone=no">
+	<!-- <style>body{opacity: 0;}</style> -->
+	<link rel="stylesheet" href="css/style.min.css?_v=20240318235017">
+	<link rel="shortcut icon" href="favicon.ico">
+	<!-- <meta name="robots" content="noindex, nofollow"> -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body>
+	<div class="wrapper">
+		<header class="header">
+			<div class="header__container">
+			</div>
+		</header>
+		<main class="page">
+			<div class="anime-list">
+				<div class="anime-list__container">
+					<div class="anime-list__controls controls-anime">
+						<form class="anime-form">
+							<input class="anime-form__name-input input" autocomplete="off" type="text" name="anime_name" required data-error="Ошибка" placeholder="Название">
+							<input class="anime-form__image-input" autocomplete="off" type="button" name="anime_image" required data-error="Ошибка" placeholder="" value="Изображение">
+							<select class="anime-form__status-select" name="anime_watchStatus" class="form">
+								<option value="1" selected>Пункт №1</option>
+								<option value="2">Пункт №2</option>
+								<option value="3">Пункт №3</option>
+								<option value="4">Пункт №4</option>
+							</select>
+							<input class="anime-form__favourite" autocomplete="off" type="checkbox" name="anime_favourite" data-error="Ошибка" placeholder="" class="input">
+							<button type="submit" class="anime-form__button">Отправить</button>
+						</form>
+					</div>
+					<div class="anime-list__cards ">
+					</div>
+				</div>
+			</div>
+		</main>
+		<footer class="footer">
+			<div class="footer__container">
+			</div>
+		</footer>
+	</div>
+	<!-- <div id="popup" aria-hidden="true" class="popup">
+	<div class="popup__wrapper">
+		<div class="popup__content">
+			<button data-close type="button" class="popup__close">Закрыть</button>
+			<div class="popup__text">
+				Text
+			</div>
+		</div>
+	</div>
+</div> -->
+	<script src="js/app.min.js?_v=20240318235017"></script>
+</body>
+
+</html>
