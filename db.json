@@ -1,0 +1,653 @@
+{
+  "aniList": [
+    {
+      "anime_watchStatus": 4,
+      "id": "3406",
+      "anime_name": "Арифурэта: Сильнейший ремесленник в мире",
+      "target_id": 36882,
+      "score": 8,
+      "timeAdded": "2021-11-01 21:06:21"
+    },
+    {
+      "anime_watchStatus": 3,
+      "id": "3406",
+      "anime_name": "Арифурэта: Сильнейший ремесленник в мире",
+      "target_id": 36882,
+      "score": 8,
+      "timeAdded": "2021-11-01 19:05:49"
+    },
+    {
+      "anime_watchStatus": 3,
+      "id": "4325",
+      "anime_name": "Арифурэта: Сильнейший ремесленник в мире - Дополнительные эпизоды",
+      "target_id": 40083,
+      "score": 4,
+      "timeAdded": "2021-11-18 22:06:38"
+    },
+    {
+      "anime_watchStatus": 2,
+      "id": "3883",
+      "anime_name": "Арифурэта: Сильнейший ремесленник в мире 2",
+      "target_id": 40507,
+      "score": null,
+      "timeAdded": "2021-11-01 19:06:06"
+    },
+    {
+      "anime_watchStatus": 4,
+      "id": "1184",
+      "anime_name": "Богиня благословляет этот прекрасный мир",
+      "target_id": 30831,
+      "score": 8,
+      "timeAdded": "2021-11-01 21:06:27"
+    },
+    {
+      "anime_watchStatus": 3,
+      "id": "1184",
+      "anime_name": "Богиня благословляет этот прекрасный мир",
+      "target_id": 30831,
+      "score": 8,
+      "timeAdded": "2021-11-01 19:01:13"
+    },
+    {
+      "anime_watchStatus": 4,
+      "id": "2090",
+      "anime_name": "Богиня благословляет этот прекрасный мир 2",
+      "target_id": 32937,
+      "score": 8,
+      "timeAdded": "2021-11-01 21:06:27"
+    },
+    {
+      "anime_watchStatus": 3,
+      "id": "2090",
+      "anime_name": "Богиня благословляет этот прекрасный мир 2",
+      "target_id": 32937,
+      "score": 8,
+      "timeAdded": "2021-11-01 19:01:20"
+    },
+    {
+      "anime_watchStatus": 3,
+      "id": "3770",
+      "anime_name": "Богиня благословляет этот прекрасный мир: Багровая легенда",
+      "target_id": 38040,
+      "score": 9,
+      "timeAdded": "2021-11-18 22:09:29"
+    },
+    {
+      "anime_watchStatus": 4,
+      "id": "3770",
+      "anime_name": "Богиня благословляет этот прекрасный мир: Багровая легенда",
+      "target_id": 38040,
+      "score": 9,
+      "timeAdded": "2021-12-22 00:47:22"
+    },
+    {
+      "anime_watchStatus": 2,
+      "id": "4932",
+      "anime_name": "Виви: Песнь флюоритового глаза",
+      "target_id": 46095,
+      "score": null,
+      "timeAdded": "2022-01-05 19:38:29"
+    },
+    {
+      "anime_watchStatus": 3,
+      "id": "4116",
+      "anime_name": "Восемьдесят шесть",
+      "target_id": 41457,
+      "score": 7,
+      "timeAdded": "2022-01-07 00:43:26"
+    },
+    {
+      "anime_watchStatus": 4,
+      "id": "4910",
+      "anime_name": "Герой-рационал перестраивает королевство",
+      "target_id": 41710,
+      "score": 7,
+      "timeAdded": "2021-11-01 21:06:34"
+    },
+    {
+      "anime_watchStatus": 3,
+      "id": "4910",
+      "anime_name": "Герой-рационал перестраивает королевство",
+      "target_id": 41710,
+      "score": 7,
+      "timeAdded": "2021-11-01 19:02:25"
+    },
+    {
+      "anime_watchStatus": 4,
+      "id": "3190",
+      "anime_name": "Госпожа Кагуя: в любви как на войне",
+      "target_id": 37999,
+      "score": 8,
+      "timeAdded": "2021-11-01 21:06:36"
+    },
+    {
+      "anime_watchStatus": 3,
+      "id": "3190",
+      "anime_name": "Госпожа Кагуя: в любви как на войне",
+      "target_id": 37999,
+      "score": 8,
+      "timeAdded": "2021-11-01 18:58:27"
+    },
+    {
+      "anime_watchStatus": 4,
+      "id": "3781",
+      "anime_name": "Госпожа Кагуя: в любви как на войне 2",
+      "target_id": 40591,
+      "score": 8,
+      "timeAdded": "2021-11-01 21:06:35"
+    },
+    {
+      "anime_watchStatus": 3,
+      "id": "3781",
+      "anime_name": "Госпожа Кагуя: в любви как на войне 2",
+      "target_id": 40591,
+      "score": 8,
+      "timeAdded": "2021-11-01 18:58:38"
+    },
+    {
+      "anime_watchStatus": 2,
+      "id": "4974",
+      "anime_name": "Госпожа Кагуя: в любви как на войне 3",
+      "target_id": 43608,
+      "score": null,
+      "timeAdded": "2021-11-01 18:58:45"
+    },
+    {
+      "anime_watchStatus": 3,
+      "id": "5133",
+      "anime_name": "Джахи не будет отчаиваться!",
+      "target_id": 48753,
+      "score": 5,
+      "timeAdded": "2021-12-22 00:22:18"
+    },
+    {
+      "anime_watchStatus": 3,
+      "id": "4121",
+      "anime_name": "Для тебя, Бессмертный",
+      "target_id": 41025,
+      "score": 6,
+      "timeAdded": "2021-11-01 18:58:04"
+    },
+    {
+      "anime_watchStatus": 2,
+      "id": "5649",
+      "anime_name": "Для тебя, Бессмертный 2",
+      "target_id": 49709,
+      "score": null,
+      "timeAdded": "2021-12-23 23:55:55"
+    },
+    {
+      "anime_watchStatus": 2,
+      "id": "4658",
+      "anime_name": "Дневник слизи-попаданца",
+      "target_id": 41488,
+      "score": null,
+      "timeAdded": "2021-11-01 19:07:44"
+    },
+    {
+      "anime_watchStatus": 3,
+      "id": "4304",
+      "anime_name": "Доктор для девушек-монстров",
+      "target_id": 40708,
+      "score": 5,
+      "timeAdded": "2021-11-01 18:57:53"
+    },
+    {
+      "anime_watchStatus": 4,
+      "id": "2283",
+      "anime_name": "Если ты будешь не занят, спасёшь меня от апокалипсиса?",
+      "target_id": 33502,
+      "score": 9,
+      "timeAdded": "2021-11-01 21:06:41"
+    },
+    {
+      "anime_watchStatus": 3,
+      "id": "2283",
+      "anime_name": "Если ты будешь не занят, спасёшь меня от апокалипсиса?",
+      "target_id": 33502,
+      "score": 9,
+      "timeAdded": "2021-11-01 19:06:55"
+    },
+    {
+      "anime_watchStatus": 4,
+      "id": "1354",
+      "anime_name": "Жизнь в другом мире с нуля",
+      "target_id": 31240,
+      "score": 10,
+      "timeAdded": "2021-11-01 21:06:45"
+    },
+    {
+      "anime_watchStatus": 3,
+      "id": "1354",
+      "anime_name": "Жизнь в другом мире с нуля",
+      "target_id": 31240,
+      "score": 10,
+      "timeAdded": "2021-11-01 19:03:32"
+    },
+    {
+      "anime_watchStatus": 3,
+      "id": "3780",
+      "anime_name": "Жизнь в другом мире с нуля 2 — Часть 1",
+      "target_id": 39587,
+      "score": 10,
+      "timeAdded": "2021-11-01 19:04:29"
+    },
+    {
+      "anime_watchStatus": 4,
+      "id": "3780",
+      "anime_name": "Жизнь в другом мире с нуля 2 — Часть 1",
+      "target_id": 39587,
+      "score": 10,
+      "timeAdded": "2021-11-01 21:06:42"
+    },
+    {
+      "anime_watchStatus": 3,
+      "id": "4570",
+      "anime_name": "Жизнь в другом мире с нуля 2 — Часть 2",
+      "target_id": 42203,
+      "score": 10,
+      "timeAdded": "2021-11-01 19:04:39"
+    },
+    {
+      "anime_watchStatus": 4,
+      "id": "4570",
+      "anime_name": "Жизнь в другом мире с нуля 2 — Часть 2",
+      "target_id": 42203,
+      "score": 10,
+      "timeAdded": "2021-11-01 21:06:43"
+    },
+    {
+      "anime_watchStatus": 3,
+      "id": "523",
+      "anime_name": "Кошечка из Сакурасо",
+      "target_id": 13759,
+      "score": 9,
+      "timeAdded": "2021-11-01 19:05:39"
+    },
+    {
+      "anime_watchStatus": 4,
+      "id": "523",
+      "anime_name": "Кошечка из Сакурасо",
+      "target_id": 13759,
+      "score": 9,
+      "timeAdded": "2021-11-01 21:06:50"
+    },
+    {
+      "anime_watchStatus": 4,
+      "id": "5355",
+      "anime_name": "Лунное путешествие приведёт к новому миру",
+      "target_id": 43523,
+      "score": 8,
+      "timeAdded": "2021-11-01 21:06:52"
+    },
+    {
+      "anime_watchStatus": 3,
+      "id": "5355",
+      "anime_name": "Лунное путешествие приведёт к новому миру",
+      "target_id": 43523,
+      "score": 8,
+      "timeAdded": "2021-11-01 19:01:55"
+    },
+    {
+      "anime_watchStatus": 3,
+      "id": "4659",
+      "anime_name": "Маг-целитель: Новый старт",
+      "target_id": 40750,
+      "score": 9,
+      "timeAdded": "2021-11-01 19:04:56"
+    },
+    {
+      "anime_watchStatus": 4,
+      "id": "4659",
+      "anime_name": "Маг-целитель: Новый старт",
+      "target_id": 40750,
+      "score": 9,
+      "timeAdded": "2021-11-01 21:06:53"
+    },
+    {
+      "anime_watchStatus": 3,
+      "id": "4474",
+      "anime_name": "Магическая битва",
+      "target_id": 40748,
+      "score": 7,
+      "timeAdded": "2021-11-01 19:06:14"
+    },
+    {
+      "anime_watchStatus": 4,
+      "id": "4474",
+      "anime_name": "Магическая битва",
+      "target_id": 40748,
+      "score": 7,
+      "timeAdded": "2021-11-01 21:06:54"
+    },
+    {
+      "anime_watchStatus": 3,
+      "id": "1046",
+      "anime_name": "Мангака и все-все-все",
+      "target_id": 21863,
+      "score": 6,
+      "timeAdded": "2021-11-01 18:59:20"
+    },
+    {
+      "anime_watchStatus": 3,
+      "id": "2092",
+      "anime_name": "Месть Масамунэ!",
+      "target_id": 33487,
+      "score": 7,
+      "timeAdded": "2021-11-01 18:57:20"
+    },
+    {
+      "anime_watchStatus": 3,
+      "id": "2671",
+      "anime_name": "Милый во Франксе",
+      "target_id": 35849,
+      "score": 10,
+      "timeAdded": "2021-11-01 19:07:09"
+    },
+    {
+      "anime_watchStatus": 4,
+      "id": "2671",
+      "anime_name": "Милый во Франксе",
+      "target_id": 35849,
+      "score": 10,
+      "timeAdded": "2021-11-01 21:06:59"
+    },
+    {
+      "anime_watchStatus": 3,
+      "id": "4506",
+      "anime_name": "Не издевайся, Нагаторо",
+      "target_id": 42361,
+      "score": 7,
+      "timeAdded": "2021-11-01 18:59:31"
+    },
+    {
+      "anime_watchStatus": 2,
+      "id": "5800",
+      "anime_name": "Не издевайся, Нагаторо 2",
+      "target_id": 50197,
+      "score": null,
+      "timeAdded": "2021-11-09 19:19:29"
+    },
+    {
+      "anime_watchStatus": 4,
+      "id": "3957",
+      "anime_name": "Непризнанный школой владыка демонов",
+      "target_id": 40496,
+      "score": 8,
+      "timeAdded": "2021-11-01 21:07:02"
+    },
+    {
+      "anime_watchStatus": 3,
+      "id": "3957",
+      "anime_name": "Непризнанный школой владыка демонов",
+      "target_id": 40496,
+      "score": 8,
+      "timeAdded": "2021-11-01 19:00:27"
+    },
+    {
+      "anime_watchStatus": 2,
+      "id": "4985",
+      "anime_name": "Непризнанный школой владыка демонов 2",
+      "target_id": 48417,
+      "score": null,
+      "timeAdded": "2021-11-01 19:00:50"
+    },
+    {
+      "anime_watchStatus": 4,
+      "id": "612",
+      "anime_name": "Нет игры - нет жизни",
+      "target_id": 19815,
+      "score": 9,
+      "timeAdded": "2021-11-01 21:07:06"
+    },
+    {
+      "anime_watchStatus": 3,
+      "id": "612",
+      "anime_name": "Нет игры - нет жизни",
+      "target_id": 19815,
+      "score": 9,
+      "timeAdded": "2021-11-01 18:59:01"
+    },
+    {
+      "anime_watchStatus": 3,
+      "id": "2302",
+      "anime_name": "Нет игры - нет жизни: Начало",
+      "target_id": 33674,
+      "score": 10,
+      "timeAdded": "2021-11-01 18:59:09"
+    },
+    {
+      "anime_watchStatus": 4,
+      "id": "2302",
+      "anime_name": "Нет игры - нет жизни: Начало",
+      "target_id": 33674,
+      "score": 10,
+      "timeAdded": "2021-11-17 20:26:32"
+    },
+    {
+      "anime_watchStatus": 4,
+      "id": "3061",
+      "anime_name": "О моём перерождении в слизь",
+      "target_id": 37430,
+      "score": 8,
+      "timeAdded": "2021-11-01 21:07:11"
+    },
+    {
+      "anime_watchStatus": 3,
+      "id": "3061",
+      "anime_name": "О моём перерождении в слизь",
+      "target_id": 37430,
+      "score": 8,
+      "timeAdded": "2021-11-01 19:07:35"
+    },
+    {
+      "anime_watchStatus": 4,
+      "id": "3336",
+      "anime_name": "О моём перерождении в слизь 2 — Часть 1",
+      "target_id": 39551,
+      "score": 9,
+      "timeAdded": "2021-11-01 21:07:09"
+    },
+    {
+      "anime_watchStatus": 3,
+      "id": "3336",
+      "anime_name": "О моём перерождении в слизь 2 — Часть 1",
+      "target_id": 39551,
+      "score": 9,
+      "timeAdded": "2021-11-01 19:07:50"
+    },
+    {
+      "anime_watchStatus": 3,
+      "id": "4973",
+      "anime_name": "О моём перерождении в слизь 2 — Часть 2",
+      "target_id": 41487,
+      "score": 8,
+      "timeAdded": "2021-11-01 19:07:55"
+    },
+    {
+      "anime_watchStatus": 4,
+      "id": "4973",
+      "anime_name": "О моём перерождении в слизь 2 — Часть 2",
+      "target_id": 41487,
+      "score": 8,
+      "timeAdded": "2021-11-01 21:07:10"
+    },
+    {
+      "anime_watchStatus": 2,
+      "id": "5413",
+      "anime_name": "О моём перерождении в слизь 2: Дневник Вельдоры 2",
+      "target_id": 49318,
+      "score": null,
+      "timeAdded": "2021-11-01 19:08:01"
+    },
+    {
+      "anime_watchStatus": 3,
+      "id": "975",
+      "anime_name": "Повседневная жизнь с девушкой-монстром",
+      "target_id": 30307,
+      "score": 6,
+      "timeAdded": "2021-11-01 18:57:44"
+    },
+    {
+      "anime_watchStatus": 4,
+      "id": "3171",
+      "anime_name": "Пять невест",
+      "target_id": 38101,
+      "score": 9,
+      "timeAdded": "2021-11-01 21:07:17"
+    },
+    {
+      "anime_watchStatus": 3,
+      "id": "3171",
+      "anime_name": "Пять невест",
+      "target_id": 38101,
+      "score": 9,
+      "timeAdded": "2021-11-01 19:03:05"
+    },
+    {
+      "anime_watchStatus": 3,
+      "id": "3692",
+      "anime_name": "Пять невест 2",
+      "target_id": 39783,
+      "score": 9,
+      "timeAdded": "2021-11-01 19:03:11"
+    },
+    {
+      "anime_watchStatus": 4,
+      "id": "3692",
+      "anime_name": "Пять невест 2",
+      "target_id": 39783,
+      "score": 9,
+      "timeAdded": "2021-11-01 21:07:20"
+    },
+    {
+      "anime_watchStatus": 2,
+      "id": "5157",
+      "anime_name": "Пять невест. Фильм",
+      "target_id": 48548,
+      "score": null,
+      "timeAdded": "2021-12-23 23:53:59"
+    },
+    {
+      "anime_watchStatus": 4,
+      "id": "3884",
+      "anime_name": "Реинкарнация безработного: История о приключениях в другом мире",
+      "target_id": 39535,
+      "score": 9,
+      "timeAdded": "2021-11-01 21:07:22"
+    },
+    {
+      "anime_watchStatus": 3,
+      "id": "3884",
+      "anime_name": "Реинкарнация безработного: История о приключениях в другом мире",
+      "target_id": 39535,
+      "score": 9,
+      "timeAdded": "2021-11-01 19:02:38"
+    },
+    {
+      "anime_watchStatus": 4,
+      "id": "5030",
+      "anime_name": "Реинкарнация безработного: История о приключениях в другом мире. Часть 2",
+      "target_id": 45576,
+      "score": 10,
+      "timeAdded": "2021-12-22 00:45:38"
+    },
+    {
+      "anime_watchStatus": 3,
+      "id": "5030",
+      "anime_name": "Реинкарнация безработного: История о приключениях в другом мире. Часть 2",
+      "target_id": 45576,
+      "score": 10,
+      "timeAdded": "2021-12-22 00:45:36"
+    },
+    {
+      "anime_watchStatus": 3,
+      "id": "976",
+      "anime_name": "Скучный мир, в котором не существует самой концепции похабных шуток",
+      "target_id": 29786,
+      "score": 3,
+      "timeAdded": "2021-11-01 18:57:08"
+    },
+    {
+      "anime_watchStatus": 4,
+      "id": "5704",
+      "anime_name": "Такт Опус. Судьба",
+      "target_id": 48556,
+      "score": 9,
+      "timeAdded": "2021-12-23 19:06:08"
+    },
+    {
+      "anime_watchStatus": 3,
+      "id": "5704",
+      "anime_name": "Такт Опус. Судьба",
+      "target_id": 48556,
+      "score": 9,
+      "timeAdded": "2021-12-25 21:04:45"
+    },
+    {
+      "anime_watchStatus": 3,
+      "id": "4898",
+      "anime_name": "Токийские мстители",
+      "target_id": 42249,
+      "score": 7,
+      "timeAdded": "2022-01-05 19:43:00"
+    },
+    {
+      "anime_watchStatus": 2,
+      "id": "5229",
+      "anime_name": "У Коми проблемы с общением",
+      "target_id": 48926,
+      "score": null,
+      "timeAdded": "2022-01-05 19:38:48"
+    },
+    {
+      "anime_watchStatus": 3,
+      "id": "2330",
+      "anime_name": "Хроники Акаши - худшего магического преподавателя",
+      "target_id": 32951,
+      "score": 9,
+      "timeAdded": "2021-11-01 19:08:12"
+    },
+    {
+      "anime_watchStatus": 4,
+      "id": "2330",
+      "anime_name": "Хроники Акаши - худшего магического преподавателя",
+      "target_id": 32951,
+      "score": 9,
+      "timeAdded": "2021-11-01 21:07:25"
+    },
+    {
+      "anime_watchStatus": 3,
+      "id": "4930",
+      "anime_name": "Что, если чрезвычайно развитая ролевая игра с полным погружением вызывает большее привыкание, чем реальность",
+      "target_id": 44276,
+      "score": 7,
+      "timeAdded": "2021-12-22 14:57:54"
+    },
+    {
+      "anime_watchStatus": 4,
+      "id": "5018",
+      "anime_name": "Я побрился. Затем привёл домой старшеклассницу",
+      "target_id": 40938,
+      "score": 9,
+      "timeAdded": "2021-11-01 21:07:30"
+    },
+    {
+      "anime_watchStatus": 3,
+      "id": "5018",
+      "anime_name": "Я побрился. Затем привёл домой старшеклассницу",
+      "target_id": 40938,
+      "score": 9,
+      "timeAdded": "2021-11-01 18:59:40"
+    },
+    {
+      "id": "0836",
+      "anime_name": "some shit anime",
+      "anime_watchStatus": "1",
+      "anime_favourite": "on",
+      "timeAdded": "Mon Mar 18 2024 23:29:55 GMT+0100 (Центральная Европа, стандартное время)",
+	  "anime_image": "none"
+	  
+    }
+  ]
+}
