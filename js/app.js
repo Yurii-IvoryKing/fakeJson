@@ -3625,7 +3625,7 @@
             }));
         }
     }), 0);
-    const aniListData = "https://www.jsonkeeper.com/b/BZSU", map = new Map, animeBlock = [];
+    const aniListData = "https://api.npoint.io/33f57c23f15f73f6218f/aniList/", map = new Map, animeBlock = [];
     function fetchCards() {
         fetch(aniListData).then((response => response.json())).then((data => {
             data.forEach((anime => {
